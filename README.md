@@ -2,4 +2,3 @@
 - 👀 I’m interested in Python, Cryptography, Automated systems, r@ndom@rt
 - 🌱 I’m currently learning everything i need. :D
 - 📫 How to reach me - xxx@th3f1rm.org
-- 
